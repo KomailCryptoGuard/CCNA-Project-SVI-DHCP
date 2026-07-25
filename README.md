@@ -61,8 +61,5 @@ This project strengthened my understanding of:
 - IP addressing
 - Network verification and troubleshooting
 
-## 👨‍💻 Author
-*Komail Khan*
-
 ### Connect with me
-- LinkedIn: (Add your LinkedIn profile URL here)
+- LinkedIn: (https://www.linkedin.com/in/komail-akhtar-07b025362)
